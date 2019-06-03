@@ -1,0 +1,88 @@
+@import url("https://use.typekit.net/fxt8dkm.css");
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400&display=swap');
+
+#root {
+	margin: 10px;
+}
+
+h1,
+h2,
+h3 {
+	font-family: 'Montserrat',
+		sans-serif;
+	margin: 0.4em 0;
+	line-height: 1.2;
+}
+
+h4 {
+	font-family: 'Montserrat',
+		sans-serif;
+	margin: 0.2em 0;
+	line-height: 1.2;
+	letter-spacing: 0em;
+}
+
+h1 {
+	font-size: 3.5em;
+	font-family: americane-condensed,
+		sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	color: #006600
+}
+
+h2 {
+	font-family: 'Montserrat',
+		sans-serif;
+	font-size: 1.5em;
+
+}
+
+h3 {
+	font-family: 'Montserrat',
+		sans-serif;
+	font-size: 1.1em;
+	margin: 2em 0 1em;
+	font-weight: 100;
+
+}
+
+h4 {
+	font-size: 0.9em;
+	margin: 2em 0 0.5em;
+
+}
+
+p {
+	margin: 1.5em 0;
+	line-height: 1.4;
+	letter-spacing: -0.05em;
+	text-align: justify;
+}
+
+a {
+	font-family: 'Montserrat',
+		sans-serif;
+}
+
+ul {
+	font-family: 'Montserrat',
+		sans-serif;
+	margin: 1em 2em;
+	padding: 0;
+}
+
+ul li {
+	font-family: 'Montserrat',
+		sans-serif;
+	margin: 0;
+	padding: 0.125em 0;
+
+}
+
+ul li ul {
+	font-family: 'Montserrat',
+		sans-serif;
+	margin: 0.25em 1.25em;
+}
